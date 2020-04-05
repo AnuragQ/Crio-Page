@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Crio-Launch-Feb-2020-anurag-sharma-2p/precache-manifest.adfa498476e68ae743bfdf125062182c.js"
+  "/Crio-Launch-Feb-2020-anurag-sharma-2p/precache-manifest.d2e15121b32e6c91741e37691deb4d17.js"
 );
 
 self.addEventListener('message', (event) => {
